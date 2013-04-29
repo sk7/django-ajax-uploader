@@ -1,2 +1,3 @@
 recursive-include ajaxuploader/static *.css *.js
 recursive-include ajaxuploader/templates *.html
+recursive-include ajaxuploader/fixtures *.*
